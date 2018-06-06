@@ -1,0 +1,11 @@
+html{
+  background: url("https://i.pinimg.com/originals/d5/18/f3/d518f32c2dd7b32154c7de7989e2fa94.jpg") no-repeat center fixed; 
+
+}
+body{
+  color:rgb(255, 255, 255);
+  text-align:center;
+}
+p{
+  background: rgba(141, 124, 124, 0.644);
+}
